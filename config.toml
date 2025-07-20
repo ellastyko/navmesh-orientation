@@ -1,0 +1,9 @@
+[main]
+appname = "Navmesh" 
+
+[window]
+indent=[300,300]
+width=1280
+height=720
+minw=640
+minh=360
